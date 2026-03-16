@@ -74,7 +74,7 @@ Your report should include:
 <img width="987" height="749" alt="Screenshot 2026-02-14 141544" src="https://github.com/user-attachments/assets/211362d3-99f0-4f7e-b71d-7d8e6811b330" />
 
 ![WhatsApp Image 2026-02-25 at 10 41 25 AM](https://github.com/user-attachments/assets/6c4296f3-657f-40c4-a864-5a7225a88476)
-[WhatsApp Image 2026-02-25 at 10 41 25 AM](https://github.com/user-attachments/assets/6c4296f3-657f-40c4-a864-5a7225a88476)
+
 
 ---
  ## result 
