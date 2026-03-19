@@ -68,13 +68,12 @@ Your report should include:
   - Power readings  
   - BER analyzer output  
   - Eye diagram  
-- Discussion of differences between analytical and simulation results.  
-![WhatsApp Image 2026-02-14 at 2 19 23 PM](https://github.com/user-attachments/assets/712974a8-a1a8-4c22-8501-81b1a548af2a)
+- Discussion of differences between analytical and simulation results.
+- <img width="714" height="1280" alt="image" src="https://github.com/user-attachments/assets/47d57efc-74fc-4232-a5c0-07a5cc1772e9" />
 
 <img width="987" height="749" alt="Screenshot 2026-02-14 141544" src="https://github.com/user-attachments/assets/211362d3-99f0-4f7e-b71d-7d8e6811b330" />
 
-![WhatsApp Image 2026-02-25 at 10 41 25 AM](https://github.com/user-attachments/assets/6c4296f3-657f-40c4-a864-5a7225a88476)
-
+<img width="1280" height="411" alt="image" src="https://github.com/user-attachments/assets/5eee6d60-35bc-4be7-9743-da754e57d487" />
 
 ---
  ## result 
